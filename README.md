@@ -1,8 +1,4 @@
-// # Hello-OC-World-
-// Hello World Project 
+# Hello-OC-World-A.T.
+Hello World Project 
 
-package main
-import "fmt"
-func main() {
-    fmt.Println("hello world") // A.T.
-}
+
